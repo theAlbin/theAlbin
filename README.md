@@ -7,7 +7,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apple/A2AAAD" height="40" alt="a logo"  />
+  <img src="https://cdn.simpleicons.org/apple/A2AAAD" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
